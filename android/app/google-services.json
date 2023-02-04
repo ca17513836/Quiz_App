@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "176515573412",
+    "project_id": "tijaabo-3b05d",
+    "storage_bucket": "tijaabo-3b05d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176515573412:android:f08a785e4f33d67607a831",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176515573412-q2f4k6t3qqr4t2lqicaop40phm7gv2rp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCC000MEXzj8OusU3qo9Sg0kRSkmZZBK_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176515573412-q2f4k6t3qqr4t2lqicaop40phm7gv2rp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
